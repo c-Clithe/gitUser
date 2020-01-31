@@ -1,7 +1,7 @@
 git基本操作
 ===========================================
 
-![git](https://github.com/c-Clithe/git-user/raw/master/images/git.png)
+![git](https://github.com/c-Clithe/gitUser/raw/master/images/git.png)
 
 ## git clone [url]
 ```````````````C
